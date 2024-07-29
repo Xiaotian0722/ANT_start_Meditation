@@ -3,7 +3,7 @@ let cueTime = 200;
 let postCueTime = 400;
 let stimulusTime = 700;
 let iti = 1600;
-let trials = 1;
+let trials = 100;
 
 let trialData = [];
 let currentTrial = 0;
